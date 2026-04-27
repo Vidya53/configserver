@@ -1,4 +1,3 @@
-order:
-  id:100
+id: 100
 app:
-  name:order microservice
+  name: order microservice
